@@ -1,9 +1,11 @@
 # Go + Vue chat web application
 #### Frontend communicate with backend through rest api endpoints
 
-<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
-<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
-<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
+<div style="display: flex; align-items: center; gap: 10px;">
+    <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
+    <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+    <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
+</div>
 
 ## Overview
 <p style="display: flex; justify-content: center">
