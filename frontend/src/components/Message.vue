@@ -5,7 +5,7 @@
     </div>
   </div>
   <div class="chat__message-body">
-    <p class="chat__message-username">{{ message.username }}</p>
+    <p class="chat__message-username">{{ message.author }}</p>
     <p class="chat__message-message">{{ message.text }}</p>
   </div>
   <div class="chat__message-info">
@@ -39,7 +39,7 @@ export default {
           "F57C00",
           "E64A19"
       ]
-      return `https://ui-avatars.com/api/?name=${this.$props.message.username}&background=${bg[Math.floor(Math.random()*bg.length)]}&color=fff`
+      return `https://ui-avatars.com/api/?name=${this.$props.message.author}&background=${bg[Math.floor(Math.random()*bg.length)]}&color=fff`
     }
   }
 }
