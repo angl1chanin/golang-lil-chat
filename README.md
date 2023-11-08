@@ -9,7 +9,7 @@
 
 ## Overview
 <p style="display: flex; justify-content: center">
-    <img width="auto" src="https://github.com/angl1chanin/django-newsblog/assets/68481069/6f9b1703-bd92-4f1a-8524-6387f08637ea">
+    <img width="auto" src="https://github.com/angl1chanin/golang-lil-chat/assets/68481069/e44b76c3-6148-4a4c-9954-5d11cd765dd8">
 </p>
 
 
