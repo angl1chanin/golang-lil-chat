@@ -6,8 +6,8 @@ export default {
             createToast(message,{
                 position: 'top-right',
                 timeout: 2000,
-                showIcon: 'true',
-                hideProgressBar: 'true',
+                showIcon: true,
+                hideProgressBar: true,
                 type: 'success',
             })
         },
@@ -15,8 +15,8 @@ export default {
             createToast(`Error: ${error}`,{
                 position: 'top-right',
                 timeout: 2000,
-                showIcon: 'true',
-                hideProgressBar: 'true',
+                showIcon: true,
+                hideProgressBar: true,
                 type: 'danger',
             })
         },
@@ -24,8 +24,8 @@ export default {
             createToast(message,{
                 position: 'top-right',
                 timeout: 2000,
-                showIcon: 'true',
-                hideProgressBar: 'true',
+                showIcon: true,
+                hideProgressBar: true,
                 type: 'warning',
             })
         }
