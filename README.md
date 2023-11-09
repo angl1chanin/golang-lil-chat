@@ -1,5 +1,5 @@
 # Go + Vue chat web application
-#### Frontend communicate with backend through rest api endpoints
+#### Frontend communicate with backend through REST api
 
 <div style="display: flex; align-items: center; gap: 10px;">
     <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
